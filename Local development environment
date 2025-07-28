@@ -1,0 +1,5 @@
+mkdir weather-api-demo && cd weather-api-demo
+
+git init
+
+touch index.html style.css script.js README.md
